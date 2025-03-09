@@ -25,7 +25,7 @@
 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9f6dbeaf3aa9727032b525658a7bccd63ca008da0b8c66fe0d246e12c21d1845/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="javascript" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9f6dbeaf3aa9727032b525658a7bccd63ca008da0b8c66fe0d246e12c21d1845/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="javascript" width="100" height="40"/> </a>
 </p>
 
 <h3 align="left">Frame works:</h3>
